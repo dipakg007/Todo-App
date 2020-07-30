@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## My section
+Demo link: https://todo-list-75152.web.app/
+* Please keep the app clean since we are developers make sure you dont mess with live demo link
+* Since i haven't added the api keys so you can use your own API key for connecting with firebase
+
 ## Available Scripts
 
 In the project directory, you can run:
